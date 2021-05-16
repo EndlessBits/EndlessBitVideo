@@ -1,0 +1,11 @@
+/DitherVideoConvertOf/*.sln
+/DitherVideoConvertOf/*.vcxproj
+/DitherVideoConvertOf/*.filters
+/DitherVideoConvertOf/*.user
+/DitherVideoConvertOf/*.rc
+/DitherVideoConvertOf/bin/*.exe
+/DitherVideoConvertOf/bin/*.exp
+/DitherVideoConvertOf/bin/*.lib
+/DitherVideoConvertOf/bin/*.dll
+/DitherVideoConvertOf/.vs
+/DitherVideoConvertOf/obj
